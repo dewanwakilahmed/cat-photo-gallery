@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #ebe7e7;
+}
+
+.header {
+  text-align: center;
+  padding: 32px;
+  background: #e0dddd;
+}
+
+#gallery {
+  display: flex;
+}
+
+#gallery img {
+  width: 25%;
+  height: 300px;
+}
